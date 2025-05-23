@@ -1,24 +1,18 @@
-# README
+# One-Way Flight Booker ✈️
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to the One-Way Flight Booker! This project will guide you through the process of building an interactive flight booking system. You'll gain hands-on experience with dropdown menus, radio buttons, and nested submissions.
 
-Things you may want to cover:
+## Features 🚀
+- Select departure and destination airports
+- Choose available flight options
+- Submit booking details
+- Dynamically populate menus based on user input
 
-* Ruby version
+## Setting Up ⚙️
+To get started, clone this repository and follow these steps:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```sh
+git clone <repository-url>
+cd <project-folder>
+bundle install
+rails db:migrate
